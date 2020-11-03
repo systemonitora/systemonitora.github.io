@@ -1,1 +1,17 @@
 # systemonitora.github.io
+
+# Afonso Henrique
+
+Olá, eu sou Afonso Henrique.
+Atualmente sou estudante do segundo período do curso de Ciência da computação na CESAR School.
+Esse repositório se trata de uma oficina de como criar e hospedar o primeiro Website usando Git e GitHub.
+
+Amo cerveja e torço pro melhor time do mundo.
+
+![Eu](https://lh3.googleusercontent.com/sfe4t5acgw8jtQXnk3iiVh0DysJrr-Ay54GonBQS7X_i8AHYQrdAST-eJy11tupm-fbry0ub895ei_078wBG8i5mmqks9Ft9OXAMFssQZDy5QAcJhkKf-kOnwzVaJ989N4ff28FaBu-SCDqX-flKljyoNShlyfZ58CHpZ1SDfdqDvdi9QUHt0vMkk9N0yGuQTD8cNtH31OuBfB6SvzZ8uIfxib-DQ7rwaGUZUwYg8UIfBng5OYD29M2NPbIlBbKSERmkUlbDEwE4mMnX07RhjlFlh_my3b-T09q-3-4SANIZpAOYBWVtYQ9uz-JclVBdEfFSPA1JvrFwChwirBvTdmfIgufAm4VkYonCePrRr3w9K9joJZVeUVQ9IdtqTGXa07WnkyvsOVRk8uspq8jmuXAa3wUVEyRAbVC9C9mx8QpRsm4m0G9eIuoLujHJ5NRWzc-VU5kGQ3Dlxv5rtuEzlCLPM0IPGbGb82mRIqdN64UiiHccm60lEkQeTfu2CAbm_ahlRxVnqU051K9F5S5zs5FYa48JoP80pU9DdovlyYM-rat1ln4lD2gbq8h6SuBNTR843arBQ2QvL1pU-boYbiLOBsBV3xI4qZhgpjlW47YohfGjuyHrKb_Em_W34bz4_PO8JYexEKhU_TMrdHiJC-6QE2CFsksjnGNnoc2_cnDZ7rKuVNHPvUe6JtJj5g=w444-h592-no?authuser=1)
+
+# Competências
+
+- Git
+- Python
+- C

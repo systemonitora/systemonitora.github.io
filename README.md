@@ -1,5 +1,3 @@
-# systemonitora.github.io
-
 # Monitora
 ## Seja bem vindo!
 ### Esse é um site que disponibilizamos para os nossos usuários com várias dicas de como realizar o armazenamento dos alimentos de forma correta.

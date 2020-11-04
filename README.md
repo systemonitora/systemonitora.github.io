@@ -5,7 +5,10 @@
 ### Esse é um site que disponibilizamos para os nossos usuários com várias dicas de como realizar o armazenamento dos alimentos de forma correta.
 
 
+# Dicas:
 
-
-
-
+dica 1
+dica 2
+dica 3
+dica 4
+dica 5

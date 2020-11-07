@@ -1,4 +1,5 @@
-<p># Dicas</p>
+# Dicas
+
 <p>Manteiga</p>
 <p>A manteiga &eacute; um latic&iacute;nio, e como a maioria dos derivados do leite, deve ser armazenada na geladeira pelo tempo determinado pelo fabricante. Caso contr&aacute;rio, podem acabar estragando antes do tempo.</p>
 <p>Frios</p>
@@ -19,7 +20,9 @@
 <li>O freezer e a geladeira deve estar na temperatura ideal para conservar os alimentos de maneira certa. Para a geladeira, essa deve ser inferior a 7&ordm;C j&aacute; a temperatura do freezer n&atilde;o deve ser maior do que 15&ordm;C negativos.</li>
 <li>Para n&atilde;o prejudicar a circula&ccedil;&atilde;o do ar, evite colocar panos ou toalhas nas prateleiras da geladeira.</li>
 </ul>
-<p># Sobre</p>
+
+# Sobre
+  
 <p><em>O Sistema Monitora &eacute; uma ideia de solu&ccedil;&atilde;o proposta para o seguinte problema na esfera dom&eacute;stica: "Descontrole da qualidade e durabilidade dos alimentos".</em></p>
 <p><em><strong>Desenvolvedores:</strong></em></p>
 <p><span style="text-decoration: underline;"><strong>Afonso Henrique</strong></span></p>

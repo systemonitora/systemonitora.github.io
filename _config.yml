@@ -5,4 +5,5 @@ title: [Monitora]
 description: [Esse é um site que disponibilizamos para os nossos usuários com várias dicas de como realizar o armazenamento dos alimentos de forma correta.]
 
 github:
-  another_url: instagram.com/afonsohenriques_
+  zip_url: http://example.com/download.zip
+  another_url: another value

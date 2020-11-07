@@ -22,14 +22,14 @@
 </ul>
 
 # Sobre
-  
+
 <p><em>O Sistema Monitora &eacute; uma ideia de solu&ccedil;&atilde;o proposta para o seguinte problema na esfera dom&eacute;stica: "Descontrole da qualidade e durabilidade dos alimentos".</em></p>
 <p><em><strong>Desenvolvedores:</strong></em></p>
-<p><span style="text-decoration: underline;"><strong>Afonso Henrique</strong></span></p>
-<p><span style="text-decoration: underline;"><strong>Enrico Rescigno</strong></span></p>
-<p><span style="text-decoration: underline;"><strong>Isadora Candine</strong></span></p>
-<p><span style="text-decoration: underline;"><strong>Laura Farias</strong></span></p>
-<p><span style="text-decoration: underline;"><strong>Liliane Barros</strong></span></p>
-<p><span style="text-decoration: underline;"><strong>Lucca Borborema</strong></span></p>
-<p><span style="text-decoration: underline;"><strong>Victor Miranda</strong></span></p>
+<p><a href="https://www.instagram.com/afonsohenriques_/"><span style="text-decoration: underline;"><strong>Afonso Henrique</strong></span></a></p>
+<p><a href="https://www.instagram.com/enrico___rescigno/"><span style="text-decoration: underline;"><strong>Enrico Rescigno</strong></span></a></p>
+<p><a href="https://www.instagram.com/euisalu/"><span style="text-decoration: underline;"><strong>Isadora Candine</strong></span></a></p>
+<p><a href="https://www.instagram.com/laura.farias/"><span style="text-decoration: underline;"><strong>Laura Farias</strong></span></a></p>
+<p><a href="https://www.instagram.com/liliane.pb/"><span style="text-decoration: underline;"><strong>Liliane Barros</strong></span></a></p>
+<p><a href="https://www.instagram.com/luccaborborema/"><span style="text-decoration: underline;"><strong>Lucca Borborema</strong></span></a></p>
+<p><a href="https://www.instagram.com/vicmrnd/"><span style="text-decoration: underline;"><strong>Victor Miranda</strong></span></a></p>
 <p>&nbsp;</p>

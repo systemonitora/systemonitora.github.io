@@ -20,7 +20,9 @@
 <li>O freezer e a geladeira deve estar na temperatura ideal para conservar os alimentos de maneira certa. Para a geladeira, essa deve ser inferior a 7&ordm;C j&aacute; a temperatura do freezer n&atilde;o deve ser maior do que 15&ordm;C negativos.</li>
 <li>Para n&atilde;o prejudicar a circula&ccedil;&atilde;o do ar, evite colocar panos ou toalhas nas prateleiras da geladeira.</li>
 </ul>
+
 # Sobre
+
 <p><em>O Sistema Monitora &eacute; uma ideia de solu&ccedil;&atilde;o proposta para o seguinte problema na esfera dom&eacute;stica: "Descontrole da qualidade e durabilidade dos alimentos".</em></p>
 <p><em><strong>Desenvolvedores:</strong></em></p>
 <p><span style="text-decoration: underline;"><strong>Afonso Henrique</strong></span></p>

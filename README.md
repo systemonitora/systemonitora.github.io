@@ -1,10 +1,10 @@
 # Instruções de uso
 
-<p>1 - Adicione o artefato no espa&ccedil;o de armazenamento que deseja (despensa, arm&aacute;rio, geladeira ou fruteira)</p>
-<p>2 - Acione o bot&atilde;o na parte superior do artefato para lig&aacute;-lo</p>
+<p>1 - Adicione o artefato no espa&ccedil;o de armazenamento que deseja (despensa, arm&aacute;rio, geladeira ou fruteira).</p>
+<p>2 - Acione o bot&atilde;o na parte superior do artefato para lig&aacute;-lo.</p>
 <p>3 - Pronto! A partir de agora, as condi&ccedil;&otilde;es do seu espa&ccedil;o de armazenamento ser&atilde;o monitoradas e, caso haja alguma anormalidade, voc&ecirc; ser&aacute; notificado.</p>
 
-# Dicas
+# Dicas 
 
 <p>Manteiga</p>
 <p>A manteiga &eacute; um latic&iacute;nio, e como a maioria dos derivados do leite, deve ser armazenada na geladeira pelo tempo determinado pelo fabricante. Caso contr&aacute;rio, podem acabar estragando antes do tempo.</p>
@@ -26,9 +26,7 @@
 <li>O freezer e a geladeira deve estar na temperatura ideal para conservar os alimentos de maneira certa. Para a geladeira, essa deve ser inferior a 7&ordm;C j&aacute; a temperatura do freezer n&atilde;o deve ser maior do que 15&ordm;C negativos.</li>
 <li>Para n&atilde;o prejudicar a circula&ccedil;&atilde;o do ar, evite colocar panos ou toalhas nas prateleiras da geladeira.</li>
 </ul>
-
 # Sobre
-
 <p><em>O Sistema Monitora &eacute; uma ideia de solu&ccedil;&atilde;o proposta para o seguinte problema na esfera dom&eacute;stica: "Descontrole da qualidade e durabilidade dos alimentos".</em></p>
 <p><em><strong>Desenvolvedores:</strong></em></p>
 <p><em><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/D7tYPuUeqvFsQoXLQUB0QM6AoXd-obJ-w73_Lkfhc6wOAKkgIW0MoyrtqsB4vb3FVxXequcy9J4fnqam81CTm4W31cM5CMnSb2T_o75zZrZwTbGor7gPU7zjXw3Wnpht_xLnQfeqMeXP_juueNZKx9RcIrv-uxSfQitMA92lwkBbvYLUMsvHitateMDgcGar9ptarAUvgN0DkmBW4kMBwEat-VEU3iCDLkJN0uxo3zATr9TJftMBvcjNsJZWvS-sGpTVXQQ4KyHvMcmT1q7-gm2jj7QjeDh5GFi-_U6hgP409jCsyHO-Mr11j8F5u-VYly2PyehwSxIWqzHLR-KuofKxcrUo--bQS624wB536VxSSVZBzsORDsimnvuQHABmLikAmnlh8R6PrUxTSSoO9MnHkaF_iuVrpB-2AGen-_m9Bh3jP39K3iJIlbzzMheehUqWC02FEJ_DKjpeAXa40d91CL26jEsWDaHUjN0x_JZoN8eMrP-H9lJBDEOgJbJ3E517MLGgGZPwnKipbJlbexHzrVrR7AN06K1fPhJ-dpZCpDMdGyiZmkBA7Aky_jGQ-u3TP8yYCk6JlST67iln9yh1qkaAJados3luzSfh9Cc6O6FfAEGwfi-YBdKBZNn1Gk4K5HGhdZvHHGAu69YsHjiPtkGw0sDRwIq87K_DHz5UkWg-z59hpz7rFQpf=s250-k-rw-no" width="120" height="90" /></strong></em></p>

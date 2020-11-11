@@ -1,7 +1,3 @@
-<p style="text-align: center;"><strong>OL&Aacute;!&nbsp;</strong></p>
-<p style="text-align: center;"><strong>Este &eacute; o portal do SISTEMA MONITORA, aqui iremos fornecer informa&ccedil;&otilde;es sobre instru&ccedil;&otilde;es de uso e dicas sobre a melhor forma de armazenar seus alimentos para garantir mais qualidade e durabilidade. Veja as se&ccedil;&otilde;es a seguir:</strong></p>
-<ul style="list-style-type: square;">
-<li style="font-weight: 400;">
 <h3><strong>INSTRU&Ccedil;&Otilde;ES DE USO DO SISTEMA MONITORA</strong></h3>
 </li>
 </ul>

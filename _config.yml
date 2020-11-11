@@ -2,3 +2,11 @@ theme: jekyll-theme-minimal
 
 logo: /logo/monitora.jpg
 
+title: Sistema Monitora
+
+description: OLÁ! Este é o portal do SISTEMA MONITORA, aqui iremos fornecer informações sobre instruções de uso e dicas sobre a melhor forma de armazenar seus alimentos para garantir mais qualidade e durabilidade. Veja as seções a seguir:
+
+show_downloads: false
+
+google_analytics:
+

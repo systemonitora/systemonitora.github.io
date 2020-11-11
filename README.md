@@ -6,7 +6,6 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pronto! A partir de agora, as condi&ccedil;&otilde;es do seu espa&ccedil;o de armazenamento ser&atilde;o monitoradas e, caso haja alguma anormalidade, voc&ecirc; ser&aacute; notificado.</span></li>
 </ol>
 <p><span style="font-weight: 400;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3dP3iek2DvGdmvjurcjzXyMhqPcaMuTip48jtTtxej2AV3Z4vV3f8UaxPMRq4GqUP85Qn2vHltnjIjdJr_8rkGb0hFqMCMPwPZLCavhx40N9PkzCsaz9rQt4N0EMZEgA4oPb9WwScxBuAAh5qetp9oS=w708-h592-no?authuser=0" alt="Processo do Sistema Monitora" width="484" height="406" /></span></p>
-<h3>&nbsp;</h3>
 <ul style="list-style-type: square;">
 <li style="font-weight: 400;">
 <h3><strong>SOBRE O DESCONTROLE DOS ALIMENTOS</strong></h3>

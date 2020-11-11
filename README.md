@@ -1,6 +1,4 @@
 <h3><strong>INSTRU&Ccedil;&Otilde;ES DE USO DO SISTEMA MONITORA</strong></h3>
-</li>
-</ul>
 <p><span style="font-weight: 400;">&Eacute; sua primeira vez usando o sistema ou ainda est&aacute; com d&uacute;vidas de como ele funciona? Veja a seguir o passo:</span><strong><br /><br /></strong></p>
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Adicione o artefato no espa&ccedil;o de armazenamento que deseja (despensa, arm&aacute;rio, geladeira ou fruteira).</span></li>
@@ -14,7 +12,7 @@
 <h3><strong>SOBRE O DESCONTROLE DOS ALIMENTOS</strong></h3>
 </li>
 </ul>
-<h3><img src="https://lh3.googleusercontent.com/H4sUrdPLDFnMnDXE0D8YYgd4gzIHJAW_ydUuXQ3GrvL3uuM_ajsfaHk2K4s6rU9i0o9bOrJR4jbXE-fiRRuOtwkidRp87e2eaZNwyhtLJwJg4BIIq8RekHIlp5RPlmegaQSN1bfYGgvqKzVj97Z49xNTenV78wiwmBUuGisHS7lsx6PmYz4nwQLu1c9n97wmuogklVvka3tH_50hA_z325QrDv07NU2yUuxRbGDjMXhGxdcJfq0Zh_YRtL_2YwhPcqEsyJr1Wgx3d588WgYFQyZDpXYtrMbKatw3ndKA4VCvpq7ulji44lw8St-JGeK1buxYj__PS6tT5PsvS9YTBFQ1-eVumPQO1zKZo4j11rtNb4iT-rYW-nmngDWfYfDzm02UHwr9yNmlAfcsjVWhtjUL02SqrsxFmZmZ0FpKyEfcS6aFA2jL1Ogtqd7RkpQgwrw9YtbUOmQzZFFspOHTuyPaAI7YR_H-88ZW5McbNPQSI45sSmw5dSBQZB53TDl9sNdMvJjEmS8_R2WBFWHQ6RUmlzGyYEbxIAoHo-e3aBnysefMpLIldje4KKHX4v2VshOghfjyTdvYyXZ30fNt8DGt_E85OrOQDxy-v_UxpHsHsv50iXwPmfO_ZNOXW-SkwxBI-OV06hRH1uRfaGtPOlA1SVtv8UiNJuJN2TzPCkxLU3GlnN8gFWHIyEiPpw=w465-h657-no?authuser=0" alt="" width="478" height="677" /></h3>
+<h3><img src="https://lh3.googleusercontent.com/pw/ACtC-3cqQrmgOKmb2iC-K1_FQTbHf-s7WghfvbJtTWxrzNv7yCnM_G4vTQcanK5xj0oNtjWiIt-IPqjhrB5rKtmXaby3C4wjtc-hhKJ6RD5yLkBQPnkK92oa3GWDMkEgMj2zdoFIRSjtWxVrEeCafdZL3otl=w442-h625-no?authuser=0" width="479" height="677" /></h3>
 <ul style="list-style-type: square;">
 <li style="font-weight: 400;">
 <h3><strong>DICAS PARA ARMAZENAMENTO DE ALIMENTOS</strong></h3>

@@ -1,27 +1,15 @@
 <p style="text-align: center;">&nbsp;</p>
-<ul style="list-style-type: square;">
-<li style="font-weight: 400;">
-<h3><strong>INSTRU&Ccedil;&Otilde;ES DE USO DO SISTEMA MONITORA</strong></h3>
-</li>
-</ul>
+<h3 style="text-align: center;"><strong>INSTRU&Ccedil;&Otilde;ES DE USO DO SISTEMA MONITORA</strong></h3>
 <p><span style="font-weight: 400;">&Eacute; sua primeira vez usando o sistema ou ainda est&aacute; com d&uacute;vidas de como ele funciona? Veja a seguir o passo:</span><strong><br /><br /></strong></p>
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Adicione o artefato no espa&ccedil;o de armazenamento que deseja (despensa, arm&aacute;rio, geladeira ou fruteira).</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Acione o bot&atilde;o na parte superior do artefato para lig&aacute;-lo.</span></li>
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pronto! A partir de agora, as condi&ccedil;&otilde;es do seu espa&ccedil;o de armazenamento ser&atilde;o monitoradas e, caso haja alguma anormalidade, voc&ecirc; ser&aacute; notificado.</span></li>
 </ol>
-<p><span style="font-weight: 400;"><img src="https://lh3.googleusercontent.com/pw/ACtC-3dP3iek2DvGdmvjurcjzXyMhqPcaMuTip48jtTtxej2AV3Z4vV3f8UaxPMRq4GqUP85Qn2vHltnjIjdJr_8rkGb0hFqMCMPwPZLCavhx40N9PkzCsaz9rQt4N0EMZEgA4oPb9WwScxBuAAh5qetp9oS=w708-h592-no?authuser=0" alt="Processo do Sistema Monitora" width="484" height="406" /></span></p>
-<h3>&nbsp;</h3>
+<p><span style="font-weight: 400;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3dP3iek2DvGdmvjurcjzXyMhqPcaMuTip48jtTtxej2AV3Z4vV3f8UaxPMRq4GqUP85Qn2vHltnjIjdJr_8rkGb0hFqMCMPwPZLCavhx40N9PkzCsaz9rQt4N0EMZEgA4oPb9WwScxBuAAh5qetp9oS=w708-h592-no?authuser=0" alt="Processo do Sistema Monitora" width="484" height="406" /></span></p>
+<h3 style="text-align: center;">&nbsp;<strong>SOBRE O DESCONTROLE DOS ALIMENTOS</strong></h3>
+<h3><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3cqQrmgOKmb2iC-K1_FQTbHf-s7WghfvbJtTWxrzNv7yCnM_G4vTQcanK5xj0oNtjWiIt-IPqjhrB5rKtmXaby3C4wjtc-hhKJ6RD5yLkBQPnkK92oa3GWDMkEgMj2zdoFIRSjtWxVrEeCafdZL3otl=w442-h625-no?authuser=0" alt="" width="470" height="665" /><strong>DICAS PARA ARMAZENAMENTO DE ALIMENTOS</strong></h3>
 <ul style="list-style-type: square;">
-<li style="font-weight: 400;">
-<h3><strong>SOBRE O DESCONTROLE DOS ALIMENTOS</strong></h3>
-</li>
-</ul>
-<h3><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3cqQrmgOKmb2iC-K1_FQTbHf-s7WghfvbJtTWxrzNv7yCnM_G4vTQcanK5xj0oNtjWiIt-IPqjhrB5rKtmXaby3C4wjtc-hhKJ6RD5yLkBQPnkK92oa3GWDMkEgMj2zdoFIRSjtWxVrEeCafdZL3otl=w442-h625-no?authuser=0" alt="" width="470" height="665" /></h3>
-<ul style="list-style-type: square;">
-<li style="font-weight: 400;">
-<h3><strong>DICAS PARA ARMAZENAMENTO DE ALIMENTOS</strong></h3>
-</li>
 <li style="font-weight: 400;"><strong>Manteiga</strong></li>
 </ul>
 <p><span style="font-weight: 400;">A manteiga &eacute; um latic&iacute;nio, e como a maioria dos derivados do leite, deve ser armazenada na geladeira pelo tempo determinado pelo fabricante. Caso contr&aacute;rio, podem acabar estragando antes do tempo.</span></p>

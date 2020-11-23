@@ -140,5 +140,5 @@
 <ul style="list-style-type: circle;">
 <li><strong>Desenvolvedores:</strong></li>
 </ul>
-<p><a href="https://linktr.ee/monitora"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3dF50w5ZAjOzJgSoPkydfnxE-4gR8ydOkxwXLM6u9jG5eG3rfntdTOUuCDvmv8QRMi_ffszzTD_srt4xEBp7n572OAnJinh9IL5atWh-p39m4MnmmEcRzH0cePPZXZcojI_OEROwyoLSqiy9yTA-zSQ=w511-h538-no?authuser=0" alt="" width="511" height="538" /></strong></a></p>
+<p><a href="https://linktr.ee/monitora" target="_blank" rel="noopener"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3dF50w5ZAjOzJgSoPkydfnxE-4gR8ydOkxwXLM6u9jG5eG3rfntdTOUuCDvmv8QRMi_ffszzTD_srt4xEBp7n572OAnJinh9IL5atWh-p39m4MnmmEcRzH0cePPZXZcojI_OEROwyoLSqiy9yTA-zSQ=w511-h538-no?authuser=0" alt="" width="511" height="538" /></strong></a></p>
 <p>&nbsp;</p>

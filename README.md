@@ -7,8 +7,7 @@
 <li style="font-weight: 400;"><span style="font-weight: 400;">Pronto! A partir de agora, as condi&ccedil;&otilde;es do seu espa&ccedil;o de armazenamento ser&atilde;o monitoradas e, caso haja alguma anormalidade, voc&ecirc; ser&aacute; notificado.</span></li>
 </ol>
 <p><span style="font-weight: 400;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3dP3iek2DvGdmvjurcjzXyMhqPcaMuTip48jtTtxej2AV3Z4vV3f8UaxPMRq4GqUP85Qn2vHltnjIjdJr_8rkGb0hFqMCMPwPZLCavhx40N9PkzCsaz9rQt4N0EMZEgA4oPb9WwScxBuAAh5qetp9oS=w708-h592-no?authuser=0" alt="Processo do Sistema Monitora" width="484" height="406" /></span></p>
-<h3 style="text-align: center;">&nbsp;<strong>SOBRE O DESCONTROLE DOS ALIMENTOS</strong></h3>
-<h3><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3cqQrmgOKmb2iC-K1_FQTbHf-s7WghfvbJtTWxrzNv7yCnM_G4vTQcanK5xj0oNtjWiIt-IPqjhrB5rKtmXaby3C4wjtc-hhKJ6RD5yLkBQPnkK92oa3GWDMkEgMj2zdoFIRSjtWxVrEeCafdZL3otl=w442-h625-no?authuser=0" alt="" width="470" height="665" /><strong>DICAS PARA ARMAZENAMENTO DE ALIMENTOS</strong></h3>
+<h3><strong>DICAS PARA ARMAZENAMENTO DE ALIMENTOS</strong></h3>
 <ul style="list-style-type: square;">
 <li style="font-weight: 400;"><strong>Manteiga</strong></li>
 </ul>
@@ -107,7 +106,7 @@
 <h3><strong>BIBLIOGRAFIA</strong></h3>
 </li>
 <li style="font-weight: 400;">
-<p><a href="https://deltacontainers.com.br/alimentos-tabelas-de-temperatura-tempo-conservacao/"><span style="font-weight: 400;">https://deltacontainers.com.br/alimentos-tabelas-de-temperatura-tempo-conservacao/</span></a></p>
+<h3><a href="https://deltacontainers.com.br/alimentos-tabelas-de-temperatura-tempo-conservacao/"><span style="font-weight: 400;">https://deltacontainers.com.br/alimentos-tabelas-de-temperatura-tempo-conservacao/</span></a></h3>
 </li>
 <li style="font-weight: 400;">
 <p><a href="https://www.sesc.com.br/wps/wcm/connect/850f3436-6b30-412e-87c3-610eafeab04c/Modelo+-+Nutri%C3%A7%C3%A3o+-+M%C3%B3dulo+Programa%C3%A7%C3%A3o.pdf?MOD=AJPERES&amp;CACHEID=850f3436-6b30-412e-87c3-610eafeab04c"><span style="font-weight: 400;">https://www.sesc.com.br/wps/wcm/connect/850f3436-6b30-412e-87c3-610eafeab04c/Modelo+-+Nutri%C3%A7%C3%A3o+-+M%C3%B3dulo+Programa%C3%A7%C3%A3o.pdf?MOD=AJPERES&amp;CACHEID=850f3436-6b30-412e-87c3-610eafeab04c</span></a></p>
@@ -141,4 +140,5 @@
 <ul style="list-style-type: circle;">
 <li><strong>Desenvolvedores:</strong></li>
 </ul>
+<p><a href="https://linktr.ee/monitora"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://lh3.googleusercontent.com/pw/ACtC-3dF50w5ZAjOzJgSoPkydfnxE-4gR8ydOkxwXLM6u9jG5eG3rfntdTOUuCDvmv8QRMi_ffszzTD_srt4xEBp7n572OAnJinh9IL5atWh-p39m4MnmmEcRzH0cePPZXZcojI_OEROwyoLSqiy9yTA-zSQ=w511-h538-no?authuser=0" alt="" width="511" height="538" /></strong></a></p>
 <p>&nbsp;</p>
